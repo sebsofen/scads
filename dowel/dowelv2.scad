@@ -1,4 +1,4 @@
-diam = 6;
+diam = 12;
 
 fac = diam/8;
 scale([fac,fac,fac])
